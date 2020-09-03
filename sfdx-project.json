@@ -1,17 +1,16 @@
 {
-    "packageDirectories": [
-        {
-            "path": "Unlocked/Sandwich",
-            "default": true,
-            "package": "awefsadvsd",
-            "versionName": "ver 0.1",
-            "versionNumber": "0.1.0.NEXT"
-        }
-    ],
-    "namespace": "",
-    "sfdcLoginUrl": "https://login.salesforce.com",
-    "sourceApiVersion": "47.0",
-    "packageAliases": {
-        "awefsadvsd": "0Ho4W000000wk8DSAQ"
-    }
+  "packageDirectories" : [ {
+    "path" : "Unlocked/Sandwich",
+    "default" : true,
+    "package" : "awefsadvsd",
+    "versionName" : "ver 0.1",
+    "versionNumber" : "0.1.0.NEXT"
+  } ],
+  "namespace" : "",
+  "sfdcLoginUrl" : "https://login.salesforce.com",
+  "sourceApiVersion" : "47.0",
+  "packageAliases" : {
+    "awefsadvsd" : "0Ho4W000000wk8DSAQ",
+    "awefsadvsd@1.0.0.0" : "04t4W000000sha0QAA"
+  }
 }
