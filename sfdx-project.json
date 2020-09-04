@@ -3,7 +3,11 @@
     {
       "path": "Unlocked/Sandwich",
       "default": true
-    }
+    },
+    {
+      "path": "Unlocked/Burger",
+      "default": false
+    }    
   ],
   "namespace": "",
   "sfdcLoginUrl": "https://login.salesforce.com",
